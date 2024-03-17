@@ -10,6 +10,7 @@ Welcome to our collaborative Python and SQL project! We're excited to work toget
 4. Make your changes, write code, and add commits.
 5. Push your branch to the repository:
 6. Open a pull request and describe your changes. Let's discuss and review before merging.
+7. Only commit useful changes and no useless commits like changing name or a line of text.
 
 ## Project Structure
 
