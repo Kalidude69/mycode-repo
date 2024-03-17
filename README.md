@@ -1,2 +1,2 @@
 # mycode-repo
-my first repooo
+PYTHON AND SQL LEARNING COLLABORATIVE REPO
