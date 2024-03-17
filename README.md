@@ -14,7 +14,7 @@ Welcome to our collaborative Python and SQL project! We're excited to work toget
 
 ## Project Structure
 
-- `/python`: Contains Python scripts and modules.
+- `/PY`: Contains Python scripts and modules.
 - `/sql`: Contains SQL scripts and database files.
 
 ## Guidelines
