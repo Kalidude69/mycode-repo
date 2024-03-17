@@ -27,9 +27,8 @@ Welcome to our collaborative Python and SQL project! We're excited to work toget
 
 If you have any questions or ideas, feel free to open an issue or reach out to us on Discord/Telegram communication platform.
 
-Telegram :- @Linux_chad
-Discord :-@deb_694200
-Mail:- kdebjoity@gmail.com
-
+Telegram: [Linux_chad](https://t.me/Linux_chad)
+Discord: deb_694200
+Mail: [kdebjoity@proton.me](mailto:kdebjoity@proton.me)
 
 Happy coding!
