@@ -25,6 +25,11 @@ Welcome to our collaborative Python and SQL project! We're excited to work toget
 
 ## Get in Touch
 
-If you have any questions or ideas, feel free to open an issue or reach out to us on Whatsapp/Discord/Telegram communication platform.
+If you have any questions or ideas, feel free to open an issue or reach out to us on Discord/Telegram communication platform.
+
+Telegram :- @Linux_chad
+Discord :-@deb_694200
+Mail:- kdebjoity@gmail.com
+
 
 Happy coding!
